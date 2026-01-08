@@ -1,0 +1,11 @@
+First Name,Last Name,Email,Department,Manager Email,Job Title,Employee ID,Start Date
+John,Doe,john@mckernonmotors.com,Sales,jane@mckernonmotors.com,Account Executive,EMP001,2024-01-15
+Jane,Smith,jane@mckernonmotors.com,Sales,,VP Sales,EMP002,2023-06-01
+Bob,Jones,bob@mckernonmotors.com,Engineering,jane@mckernonmotors.com,Senior Engineer,EMP003,2023-09-12
+Alice,Lee,alice@mckernonmotors.com,Engineering,jane@mckernonmotors.com,Engineer,EMP004,2024-02-01
+Tom,Brown,tom@mckernonmotors.com,Operations,bob@mckernonmotors.com,Ops Manager,EMP005,2023-11-20
+Sarah,Wilson,sarah@mckernonmotors.com,Sales,jane@mckernonmotors.com,Account Executive,EMP006,2024-03-10
+Mike,Davis,mike@mckernonmotors.com,Engineering,bob@mckernonmotors.com,Junior Engineer,EMP007,2024-04-15
+Emily,Martinez,emily@mckernonmotors.com,Operations,tom@mckernonmotors.com,Operations Specialist,EMP008,2024-05-01
+David,Garcia,david@mckernonmotors.com,Sales,jane@mckernonmotors.com,Sales Representative,EMP009,2024-06-20
+Lisa,Rodriguez,lisa@mckernonmotors.com,Engineering,bob@mckernonmotors.com,Software Engineer,EMP010,2024-07-01
